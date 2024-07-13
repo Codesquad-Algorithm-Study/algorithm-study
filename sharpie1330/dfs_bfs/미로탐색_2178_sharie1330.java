@@ -1,3 +1,5 @@
+package dfs_bfs;
+
 import java.util.*;
 
 public class 미로탐색_2178_sharie1330 {

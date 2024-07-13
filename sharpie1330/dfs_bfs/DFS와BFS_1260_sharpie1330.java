@@ -1,3 +1,5 @@
+package dfs_bfs;
+
 import java.util.*;
 
 public class DFS와BFS_1260_sharpie1330 {
