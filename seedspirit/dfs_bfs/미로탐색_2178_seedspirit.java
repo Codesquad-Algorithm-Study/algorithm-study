@@ -49,7 +49,7 @@ public class 미로탐색_2178_seedspirit {
                 if(nx < 0 || ny < 0 || nx >= M || ny >= N){
                     continue;
                 }
-                if(!visited[ny][nx]){
+                if(!visited[ny][nx] && map[ny][nx] == 1){
                     visited[ny][nx] = true;
                     map[ny][nx] += map[y][x];
                     queue.offer(new int[]{ny, nx});
