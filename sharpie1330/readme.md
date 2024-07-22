@@ -15,3 +15,6 @@
 - 20240721 [보물](https://www.acmicpc.net/problem/1026)
 - 20240721 [ATM](https://www.acmicpc.net/problem/11399)
 - 20240721 [공주님의 정원](https://www.acmicpc.net/problem/2457)
+
+> **3주차** : [0x0F강 - 정렬 II](https://www.acmicpc.net/workbook/view/7318)
+- 20240723 [시리얼 번호](https://www.acmicpc.net/problem/1431)
