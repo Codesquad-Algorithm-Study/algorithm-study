@@ -9,9 +9,17 @@
 - 20240713 [토마토](https://www.acmicpc.net/problem/7569)
 
 > **2주차** : [0x11강 - 그리디](https://www.acmicpc.net/workbook/view/7320)
-- 20240721 [숫자 0](https://www.acmicpc.net/problem/11047)
+- 20240721 [동전 0](https://www.acmicpc.net/problem/11047)
 - 20240721 [회의실 배정](https://www.acmicpc.net/problem/1931)
 - 20240721 [로프](https://www.acmicpc.net/problem/2217)
 - 20240721 [보물](https://www.acmicpc.net/problem/1026)
 - 20240721 [ATM](https://www.acmicpc.net/problem/11399)
 - 20240721 [공주님의 정원](https://www.acmicpc.net/problem/2457)
+
+> **3주차** : [0x0F강 - 정렬 II](https://www.acmicpc.net/workbook/view/7318)
+- 20240723 [시리얼 번호](https://www.acmicpc.net/problem/1431)
+- 20240728 [카드](https://www.acmicpc.net/problem/11652)
+- 20240728 [역원소 정렬](https://www.acmicpc.net/problem/5648)
+- 20240728 [단어 정렬](https://www.acmicpc.net/problem/1181)
+- 20240728 [빈도 정렬](https://www.acmicpc.net/problem/2910)
+- 20240728 [나이순 정렬](https://www.acmicpc.net/problem/10814)
