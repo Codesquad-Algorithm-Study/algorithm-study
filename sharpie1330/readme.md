@@ -21,3 +21,5 @@
 - 20240728 [카드](https://www.acmicpc.net/problem/11652)
 - 20240728 [역원소 정렬](https://www.acmicpc.net/problem/5648)
 - 20240728 [단어 정렬](https://www.acmicpc.net/problem/1181)
+- 20240728 [빈도 정렬](https://www.acmicpc.net/problem/2910)
+- 20240728 [나이순 정렬](https://www.acmicpc.net/problem/10814)
