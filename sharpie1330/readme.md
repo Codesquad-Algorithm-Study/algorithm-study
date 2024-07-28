@@ -18,3 +18,5 @@
 
 > **3주차** : [0x0F강 - 정렬 II](https://www.acmicpc.net/workbook/view/7318)
 - 20240723 [시리얼 번호](https://www.acmicpc.net/problem/1431)
+- 20240728 [카드](https://www.acmicpc.net/problem/11652)
+- 20240728 [역원소정렬](https://www.acmicpc.net/problem/5648)
