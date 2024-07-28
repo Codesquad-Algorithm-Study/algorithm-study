@@ -2,7 +2,7 @@ package greedy;
 
 import java.util.*;
 
-public class 숫자0_11047_sharpie1330 {
+public class 동전0_11047_sharpie1330 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();
