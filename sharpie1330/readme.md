@@ -23,3 +23,11 @@
 - 20240728 [단어 정렬](https://www.acmicpc.net/problem/1181)
 - 20240728 [빈도 정렬](https://www.acmicpc.net/problem/2910)
 - 20240728 [나이순 정렬](https://www.acmicpc.net/problem/10814)
+
+> **4주차** : [0x10강 - 다이나믹 프로그래밍](https://www.acmicpc.net/workbook/view/7319)
+- 20240804 [1로 만들기](https://www.acmicpc.net/problem/1463)
+- 20240804 [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)
+- 20240804 [계단 오르기](https://www.acmicpc.net/problem/2579)
+- 20240804 [RGB거리](https://www.acmicpc.net/problem/1149)
+- 20240804 [2×n 타일링](https://www.acmicpc.net/problem/11726)
+- 20240804 [구간 합 구하기 4](https://www.acmicpc.net/problem/11659)
