@@ -28,6 +28,6 @@
 - 20240804 [1로 만들기](https://www.acmicpc.net/problem/1463)
 - 20240804 [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)
 - 20240804 [계단 오르기](https://www.acmicpc.net/problem/2579)
-- 20240804 []()
+- 20240804 [RGB거리](https://www.acmicpc.net/problem/1149)
 - 20240804 []()
 - 20240804 []()
