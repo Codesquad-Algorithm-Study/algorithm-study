@@ -23,3 +23,11 @@
 - 20240728 [단어 정렬](https://www.acmicpc.net/problem/1181)
 - 20240728 [빈도 정렬](https://www.acmicpc.net/problem/2910)
 - 20240728 [나이순 정렬](https://www.acmicpc.net/problem/10814)
+
+> **4주차** : [0x10강 - 다이나믹 프로그래밍](https://www.acmicpc.net/workbook/view/7319)
+- 20240804 [1로 만들기](https://www.acmicpc.net/problem/1463)
+- 20240804 []()
+- 20240804 []()
+- 20240804 []()
+- 20240804 []()
+- 20240804 []()
